@@ -1,0 +1,11 @@
+
+La línea en su conjunto está estableciendo una propiedad llamada _esModule en el objeto exports, y su valor se establece en true 
+con la interfaz event especifica la estructura que deben tener los objetos que representan eventos en el código TypeScript
+Cualquier objeto que implemente esta interfaz debe tener propiedades name, affectshealth y affectscharger, todas con los tipos de datos especificados
+establecemos tres funciones (explore, gatherResources y handleevent) y las exporta para que otras partes del programa puedan usarlas
+para este código definimos tres funciones diferentes que están destinadas a ser utilizadas en algún tipo de aplicación o juego para ser una simulación 
+básica de un escenario de exploración espacial.
+
+
+Link del video
+https://youtu.be/M4Df-QPcfp4
